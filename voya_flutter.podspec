@@ -11,7 +11,7 @@ A new Flutter project.
                        DESC
   s.homepage         = 'https://github.com/holla-linpeiwei/voya_flutter'
   s.license          = { :file => 'LICENSE' }
-  s.author           = { 'Your Company' => 'peiwei.lin@holla.world'' }
+  s.author           = { 'Your Company' => 'peiwei.lin@holla.world' }
   s.source           = { :path => 'https://github.com/holla-linpeiwei/voya_flutter.git', :tag => s.version.to_s  }
   s.source_files = 'ios/Classes/**/*'
   s.dependency 'Flutter'
