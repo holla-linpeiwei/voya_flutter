@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'voya_flutter'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'A new Flutter project.'
   s.description      = <<-DESC
 A new Flutter project.
@@ -13,7 +13,7 @@ A new Flutter project.
   s.license          = { :file => 'LICENSE' }
   s.author           = { 'Your Company' => 'peiwei.lin@holla.world' }
   s.source           = { :git => 'https://github.com/holla-linpeiwei/voya_flutter.git', :tag => s.version.to_s  }
-  s.source_files = 'voya_flutter/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
 
